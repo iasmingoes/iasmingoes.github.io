@@ -1,0 +1,31 @@
+{
+    "id": "9C69C290",
+    "path": "~/website/teaching.qmd",
+    "project_path": "teaching.qmd",
+    "type": "quarto_markdown",
+    "hash": "3094137516",
+    "contents": "",
+    "dirty": false,
+    "created": 1701653123898.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "67:0",
+        "cursorPosition": "4,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1701653601,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701653601373,
+    "read_only": false,
+    "read_only_alternatives": []
+}
