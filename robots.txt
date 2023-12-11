@@ -1,1 +1,1 @@
-Sitemap: https://iasmingoes.github.io/website/sitemap.xml
+Sitemap: https://github.com/iasmingoes/iasmingoes.github.io/sitemap.xml
