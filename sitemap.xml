@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.iasmingoes.com/index.html</loc>
-    <lastmod>2024-01-22T04:04:09.595Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.iasmingoes.com/teaching.html</loc>
-    <lastmod>2024-01-22T04:04:08.702Z</lastmod>
+    <lastmod>2024-01-22T04:04:20.188Z</lastmod>
   </url>
   <url>
     <loc>https://www.iasmingoes.com/research.html</loc>
-    <lastmod>2024-01-22T04:04:09.106Z</lastmod>
+    <lastmod>2024-01-22T04:04:19.404Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.iasmingoes.com/index.html</loc>
+    <lastmod>2024-01-22T04:04:19.948Z</lastmod>
   </url>
 </urlset>
