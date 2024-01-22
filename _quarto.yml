@@ -22,10 +22,10 @@ website:
       - text: "{{< fa brands x-twitter >}}"
         href: https://twitter.com/iasmin_goes
       - text: "{{< fa square >}}"
-        href: https://bsky.app/profile/iasmingoes.com
+        href: https://bsky.app/profile/iasmingoes.bsky.social
       - text: "{{< fa brands orcid >}}"
         href: "https://orcid.org/0000-0002-2460-3231"
-      - text: "{{< fa graduation-cap >}}"
+      - text: "{{< ai google-scholar >}}"
         href: "https://scholar.google.com/citations?user=7wKLoosAAAAJ&hl=en"
   page-footer: 
       right: "Created with [Quarto](https://quarto.org/)"
