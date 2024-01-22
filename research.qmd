@@ -4,7 +4,7 @@ title: "Research"
 
 ### Publications
 
-Iasmin Goes and [Terrence L. Chapman](https://terrencechapman.weebly.com/). "Can 'Soft' Advice From International Organizations Catalyze Natural Resource Sector Reform?" Accepted, *International Studies Quarterly*. [PDF (Pre-Print)](papers/Goes-Chapman.pdf)
+Iasmin Goes and [Terrence L. Chapman](https://terrencechapman.weebly.com/). 2024. "Can 'Soft' Advice From International Organizations Catalyze Natural Resource Sector Reform?" Forthcoming, *International Studies Quarterly*. [PDF (Pre-Print)](papers/Goes-Chapman.pdf)
 
 Iasmin Goes (2023). "New Data, New Results? How Data Sources and Vintages Affect the Replicability of Research." *Research & Politics* 10(2):1--13. [PDF (Open Access)](https://doi.org/10.1177/20531680231170502) \| [Replication Materials](https://doi.org/10.7910/DVN/G9QZOU)
 
@@ -16,8 +16,10 @@ Iasmin Goes (2013). "Between Truth and Amnesia: State Terrorism, Human Rights Vi
 
 ### Working Papers
 
-Iasmin Goes and [Stephen B. Kaplan](http://stephenbkaplan.com/). "Crude Credit: The Political Economy of Global Finance and Natural Resource Wealth." *Revise & Resubmit.* [PDF](papers/Goes-Kaplan.pdf)
+Iasmin Goes and [Stephen B. Kaplan](http://stephenbkaplan.com/). "Crude Credit: The Political Economy of Global Finance and Natural Resource Wealth." Revised & Resubmitted. [PDF](papers/Goes-Kaplan.pdf)
 
-Iasmin Goes. "Mismeasuring the World: Predicting Uncertainty in International Statistics." [PDF](papers/Goes-WDI.pdf)
+Iasmin Goes. "Mismeasuring the World: Predicting Uncertainty in International Statistics." Under Review. [PDF](papers/Goes-WDI.pdf)
 
 [Ariana Ribeiro Costa](https://ri.fgv.br/en/pessoas/ariana-ribeiro-costa), Iasmin Goes, and [Carolina Moehlecke](https://www.carolinamoehlecke.com/). "The Determinants of FDI Inflows: Evidence from Firm and Municipality-Level Data in Brazil."
+
+Iasmin Goes and [Daniel Weitzel](https://www.danweitzel.net/). "You Should (Probably) Not Split Your Sample.
