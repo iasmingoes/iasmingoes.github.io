@@ -4,9 +4,9 @@ title: "Research"
 
 ### Publications
 
-Iasmin Goes and [Stephen B. Kaplan](http://stephenbkaplan.com/). 2024. "Crude Credit: The Political Economy of Natural Resource Booms and Sovereign Debt Management." Conditionally Accepted, *World Development*. [PDF (Pre-Print)](papers/Goes-Kaplan.pdf)
+Iasmin Goes and [Stephen B. Kaplan](http://stephenbkaplan.com/) (2024). "Crude Credit: The Political Economy of Natural Resource Booms and Sovereign Debt Management." Conditionally Accepted, *World Development*. [PDF (Pre-Print)](papers/Goes-Kaplan.pdf)
 
-Iasmin Goes and [Terrence L. Chapman](https://terrencechapman.weebly.com/) (2024). "Can 'Soft' Advice From International Organizations Catalyze Natural Resource Sector Reform?" Forthcoming, *International Studies Quarterly*. [PDF (Pre-Print)](papers/Goes-Chapman.pdf)
+Iasmin Goes and [Terrence L. Chapman](https://terrencechapman.weebly.com/) (2024). "Can 'Soft' Advice From International Organizations Catalyze Natural Resource Sector Reform?" *International Studies Quarterly* (Online First). [PDF (Gated)](https://doi.org/10.1093/isq/sqae048) \| [PDF (Pre-Print, Ungated)](papers/Goes-Chapman.pdf) \| [Replication Materials](https://doi.org/10.7910/DVN/V5MWRF)
 
 Iasmin Goes (2023). "New Data, New Results? How Data Sources and Vintages Affect the Replicability of Research." *Research & Politics* 10(2):1--13. [PDF (Open Access)](https://doi.org/10.1177/20531680231170502) \| [Replication Materials](https://doi.org/10.7910/DVN/G9QZOU)
 
