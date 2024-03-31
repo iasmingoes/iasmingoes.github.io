@@ -16,10 +16,10 @@ Iasmin Goes (2022). "Electoral Politics, Fiscal Policy, and the Resource Curse."
 
 Iasmin Goes (2013). "Between Truth and Amnesia: State Terrorism, Human Rights Violations and Transitional Justice in Brazil." *European Review of Latin America and the Caribbean* 94:83--96. [PDF (Open Access)](http://doi.org/10.18352/erlacs.8395)
 
-### Working Papers
+### Work in Progress
 
 Iasmin Goes. "Measurement Uncertainty in International Statistics." Under Review. [PDF](papers/Goes-WDI.pdf)
 
-[Ariana Ribeiro Costa](https://ri.fgv.br/en/pessoas/ariana-ribeiro-costa), Iasmin Goes, and [Carolina Moehlecke](https://www.carolinamoehlecke.com/). "The Determinants of FDI Inflows: Evidence from Firm and Municipality-Level Data in Brazil."
+[Ariana Ribeiro Costa](https://ri.fgv.br/en/pessoas/ariana-ribeiro-costa), Iasmin Goes, and [Carolina Moehlecke](https://www.carolinamoehlecke.com/). "Local Politics, Global Capital: Political Alignment and Foreign Direct Investment in Brazil." [PDF](papers/Costa-Goes-Moehlecke.pdf)
 
 Iasmin Goes and [Daniel Weitzel](https://www.danweitzel.net/). "You Should (Probably) Not Split Your Sample."
