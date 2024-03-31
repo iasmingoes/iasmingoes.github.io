@@ -23,6 +23,8 @@ website:
         href: https://twitter.com/iasmin_goes
       - text: "{{< fa square >}}"
         href: https://bsky.app/profile/iasmingoes.bsky.social
+      - text: "{{< ai lattes >}}"
+        href: "https://lattes.cnpq.br/8206286900518816"
       - text: "{{< fa brands orcid >}}"
         href: "https://orcid.org/0000-0002-2460-3231"
       - text: "{{< ai google-scholar >}}"
