@@ -4,7 +4,7 @@ title: "Research"
 
 ### Publications
 
-Iasmin Goes and [Stephen B. Kaplan](http://stephenbkaplan.com/) (2024). "Crude Credit: The Political Economy of Natural Resource Booms and Sovereign Debt Management." Conditionally Accepted, *World Development*. [PDF (Pre-Print)](papers/Goes-Kaplan.pdf)
+Iasmin Goes and [Stephen B. Kaplan](http://stephenbkaplan.com/) (2024). "Crude Credit: The Political Economy of Natural Resource Booms and Sovereign Debt Management." *World Development* (Forthcoming). [PDF (Ungated, Pre-Print)](papers/Goes-Kaplan.pdf) \| [Replication Materials](https://doi.org/10.7910/DVN/NWWX4E)
 
 Iasmin Goes and [Terrence L. Chapman](https://terrencechapman.weebly.com/) (2024). "Can 'Soft' Advice From International Organizations Catalyze Natural Resource Sector Reform?" *International Studies Quarterly* (Online First). [PDF (Gated)](https://doi.org/10.1093/isq/sqae048) \| [PDF (Ungated, Pre-Print)](papers/Goes-Chapman.pdf) \| [Replication Materials](https://doi.org/10.7910/DVN/V5MWRF)
 
