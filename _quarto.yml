@@ -15,19 +15,19 @@ website:
       - href: Goes-CV.pdf
         text: CV
     right:
-      - icon: envelope
+      - text: "{{< fa envelope title = 'E-Mail' >}}"
         href: "mailto:iasmin.goes@colostate.edu"
-      - icon: linkedin
+      - text: "{{< fa brands linkedin title = 'LinkedIn' >}}"
         href: "https://www.linkedin.com/in/iasmin-goes/"
-      - text: "{{< fa brands x-twitter >}}"
+      - text: "{{< fa brands x-twitter title = 'X' >}}"
         href: https://twitter.com/iasmin_goes
-      - text: "{{< fa square >}}"
+      - text: "{{< iconify fa6-brands bluesky title = 'Bluesky' >}}"
         href: https://bsky.app/profile/iasmingoes.bsky.social
-      - text: "{{< ai lattes >}}"
+      - text: "{{< ai lattes title = 'Currículo Lattes' >}}"
         href: "https://lattes.cnpq.br/8206286900518816"
-      - text: "{{< fa brands orcid >}}"
+      - text: "{{< fa brands orcid title = 'ORCID' >}}"
         href: "https://orcid.org/0000-0002-2460-3231"
-      - text: "{{< ai google-scholar >}}"
+      - text: "{{< ai google-scholar title = 'Google Scholar' >}}"
         href: "https://scholar.google.com/citations?user=7wKLoosAAAAJ&hl=en"
   page-footer: 
       right: "Created with [Quarto](https://quarto.org/)"
