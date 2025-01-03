@@ -19,8 +19,6 @@ website:
         href: "mailto:iasmin.goes@colostate.edu"
       - text: "{{< fa brands linkedin title = 'LinkedIn' >}}"
         href: "https://www.linkedin.com/in/iasmin-goes/"
-      - text: "{{< fa brands x-twitter title = 'X' >}}"
-        href: https://twitter.com/iasmin_goes
       - text: "{{< iconify fa6-brands bluesky title = 'Bluesky' >}}"
         href: https://bsky.app/profile/iasmingoes.bsky.social
       - text: "{{< ai lattes title = 'Currículo Lattes' >}}"
