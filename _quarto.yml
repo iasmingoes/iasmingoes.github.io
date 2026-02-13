@@ -16,7 +16,7 @@ website:
         text: CV
     right:
       - text: "{{< fa envelope title = 'E-Mail' >}}"
-        href: "mailto:iasmin.goes@colostate.edu"
+        href: "mailto:goesi@ceu.edu"
       - text: "{{< fa brands linkedin title = 'LinkedIn' >}}"
         href: "https://www.linkedin.com/in/iasmin-goes/"
       - text: "{{< ai lattes title = 'Currículo Lattes' >}}"
