@@ -2,6 +2,10 @@
 title: "Teaching"
 ---
 
+### Central European University (2026)
+
+**Undergraduate:** [International Political Economy](syllabi/IPE-Syllabus-Undergraduate.pdf)
+
 ### Colorado State University (2022-2025)
 
 **Graduate:** [International Environmental Politics](syllabi/IEP-Syllabus-Graduate.pdf)
