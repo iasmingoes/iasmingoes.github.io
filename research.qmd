@@ -16,7 +16,7 @@ Iasmin Goes (2022). "Electoral Politics, Fiscal Policy, and the Resource Curse."
 
 Iasmin Goes (2013). "Between Truth and Amnesia: State Terrorism, Human Rights Violations and Transitional Justice in Brazil." *European Review of Latin America and the Caribbean* 94:83--96. [PDF (Open Access)](http://doi.org/10.18352/erlacs.8395)
 
-### Working Paapers
+### Working Papers
 
 Iasmin Goes. "The Price of Accountability: Democratic Institutions and the (In)Stability of Economic Data." *Revise and Resubmit.* [PDF](papers/Goes-WDI.pdf)
 
@@ -34,6 +34,6 @@ Iasmin Goes and [Thomas Stubbs](https://www.tstubbs.net/). "Embedded Expertise: 
 
 Iasmin Goes and [Daniel Weitzel](https://www.danweitzel.net/). "You Should (Probably) Not Split Your Sample."
 
-[Daniel Weitzel](https://www.danweitzel.net/), [Zeynep Somer-Topcu](https://zeynepsomer.com/), Iasmin Goes, and [Elise Frelin](https://pureportal.strath.ac.uk/en/persons/elise-frelin). "Political Candidates on Twitter: How do Social Media Campaigns of Candidates Respond to the Public's Issue Priorities?"
+[Daniel Weitzel](https://www.danweitzel.net/), [Zeynep Somer-Topcu](https://zeynepsomer.com/), Iasmin Goes, and [Elise Frelin](https://sites.google.com/view/elisefrelin/home). "Political Candidates on Twitter: How do Social Media Campaigns of Candidates Respond to the Public's Issue Priorities?"
 
 Iasmin Goes, [Carolina Moehlecke](https://www.carolinamoehlecke.com/), and [Erica Owen](https://sites.google.com/view/erica-owen). "A Comparative Analysis of Firm-Level Foreign Investment Data."
