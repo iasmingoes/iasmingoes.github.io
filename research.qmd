@@ -16,18 +16,24 @@ Iasmin Goes (2022). "Electoral Politics, Fiscal Policy, and the Resource Curse."
 
 Iasmin Goes (2013). "Between Truth and Amnesia: State Terrorism, Human Rights Violations and Transitional Justice in Brazil." *European Review of Latin America and the Caribbean* 94:83--96. [PDF (Open Access)](http://doi.org/10.18352/erlacs.8395)
 
+### Working Paapers
+
+Iasmin Goes. "The Price of Accountability: Democratic Institutions and the (In)Stability of Economic Data." *Revise and Resubmit.* [PDF](papers/Goes-WDI.pdf)
+
+Iasmin Goes and [Terrence L. Chapman](https://terrencechapman.weebly.com/). "Climate Commitments or Creative Accounting: How International Organizations Navigate Conflicting Demands." *Revise and Resubmit.* [PDF](papers/Goes-Chapman-WB.pdf)
+
+[Carolina Moehlecke](https://www.carolinamoehlecke.com/), Iasmin Goes, and [Ariana Ribeiro Costa](https://ri.fgv.br/en/pessoas/ariana-ribeiro-costa). "Local Politics, Global Capital: The Effects of Domestic Political Ties on Foreign Direct Investment Attraction." *Revise and Resubmit.* [PDF](papers/Moehlecke-Goes-Costa.pdf)
+
+[Vinicius Curti Cícero](https://vcicero.github.io/) and Iasmin Goes. "Great Expectations: Electoral Accountability After Economic Shocks." *Under Review.* [PDF](https://osf.io/preprints/osf/kvwph_v3)
+
 ### Work in Progress
 
-[Carolina Moehlecke](https://www.carolinamoehlecke.com/), Iasmin Goes, and [Ariana Ribeiro Costa](https://ri.fgv.br/en/pessoas/ariana-ribeiro-costa). "Local Politics, Global Capital: The Effects of Domestic Political Ties on Foreign Direct Investment Attraction." *Under Review.* [PDF](papers/Moehlecke-Goes-Costa.pdf)
+[Raphael Cunha](https://raphaelcunha.info/), Iasmin Goes, and [Carolina Moehlecke](https://www.carolinamoehlecke.com/). "Dollars, Yuan, and Ideology: Mass Preferences over Sovereign Debt in Brazil and Argentina."
 
-Iasmin Goes. "When Countries Revise Their Data." *Under Review.* [PDF](papers/Goes-WDI.pdf)
-
-Iasmin Goes and [Terrence L. Chapman](https://terrencechapman.weebly.com/). "Climate Commitments or Creative Accounting: How International Organizations Navigate Conflicting Demands." *Under Review.* [PDF](papers/Goes-Chapman-WB.pdf)
-
-[Vinicius Curti Cícero](https://vcicero.github.io/) and Iasmin Goes. "Great Expectations: Electoral Accountability After Economic Shocks." *Under Review.* [PDF](https://doi.org/10.31219/osf.io/kvwph_v2)
-
-[Daniel Weitzel](https://www.danweitzel.net/), [Zeynep Somer-Topcu](https://zeynepsomer.com/), Iasmin Goes, and [Elise Frelin](https://pureportal.strath.ac.uk/en/persons/elise-frelin). "Political Candidates on Twitter: How do Social Media Campaigns of Candidates Respond to the Public's Issue Priorities?"
+Iasmin Goes and [Thomas Stubbs](https://www.tstubbs.net/). "Embedded Expertise: The Political Economy of IMF Technical Assistance, 1964–1989."
 
 Iasmin Goes and [Daniel Weitzel](https://www.danweitzel.net/). "You Should (Probably) Not Split Your Sample."
+
+[Daniel Weitzel](https://www.danweitzel.net/), [Zeynep Somer-Topcu](https://zeynepsomer.com/), Iasmin Goes, and [Elise Frelin](https://pureportal.strath.ac.uk/en/persons/elise-frelin). "Political Candidates on Twitter: How do Social Media Campaigns of Candidates Respond to the Public's Issue Priorities?"
 
 Iasmin Goes, [Carolina Moehlecke](https://www.carolinamoehlecke.com/), and [Erica Owen](https://sites.google.com/view/erica-owen). "A Comparative Analysis of Firm-Level Foreign Investment Data."
